@@ -1,5 +1,3 @@
-import javax.management.openmbean.OpenDataException;
-
 public class Test {
   public static void main(String[] args) {
     Comportamento normal = new ComportamentoNormal();
